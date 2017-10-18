@@ -1,2 +1,3 @@
-# spring5-webflux-functional-starter
-Spring 5 Webflux functional sample application
+#Spring 5 Webflux functional application
+
+A sample application to use Spring 5 Webflux with functional programming model.
