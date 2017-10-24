@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class FunctionalStarterApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(FunctionalStarterApplication.class, args);
-    }
+  public static void main(String[] args) {
+    SpringApplication.run(FunctionalStarterApplication.class, args);
+  }
 }
